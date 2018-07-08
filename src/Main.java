@@ -8,7 +8,7 @@ import java.util.Scanner;
 public class Main {
 
     //Size of the grid
-    private static final int gridSize=320;
+    private static final int gridSize=20;
     private static Scanner sc = new Scanner(System.in);
 
     public static void main(String[] args) {
